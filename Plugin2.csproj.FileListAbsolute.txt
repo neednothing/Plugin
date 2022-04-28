@@ -1,0 +1,11 @@
+C:\Users\nightwill\Desktop\Plugin\Plugin2\bin\Debug\Plugin2.dll
+C:\Users\nightwill\Desktop\Plugin\Plugin2\bin\Debug\Plugin2.pdb
+C:\Users\nightwill\Desktop\Plugin\Plugin2\bin\Debug\PlugIn.dll
+C:\Users\nightwill\Desktop\Plugin\Plugin2\bin\Debug\PlugIn.pdb
+C:\Users\nightwill\Desktop\Plugin\Plugin2\obj\Debug\Plugin2.csprojAssemblyReference.cache
+C:\Users\nightwill\Desktop\Plugin\Plugin2\obj\Debug\Plugin2.FrmP2Main.resources
+C:\Users\nightwill\Desktop\Plugin\Plugin2\obj\Debug\Plugin2.csproj.GenerateResource.cache
+C:\Users\nightwill\Desktop\Plugin\Plugin2\obj\Debug\Plugin2.csproj.CoreCompileInputs.cache
+C:\Users\nightwill\Desktop\Plugin\Plugin2\obj\Debug\Plugin2.csproj.CopyComplete
+C:\Users\nightwill\Desktop\Plugin\Plugin2\obj\Debug\Plugin2.dll
+C:\Users\nightwill\Desktop\Plugin\Plugin2\obj\Debug\Plugin2.pdb
