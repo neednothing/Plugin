@@ -1,0 +1,6 @@
+C:\Users\nightwill\Desktop\Plugin\PlugIn\bin\Debug\PlugIn.dll
+C:\Users\nightwill\Desktop\Plugin\PlugIn\bin\Debug\PlugIn.pdb
+C:\Users\nightwill\Desktop\Plugin\PlugIn\obj\Debug\PlugIn.csprojAssemblyReference.cache
+C:\Users\nightwill\Desktop\Plugin\PlugIn\obj\Debug\PlugIn.csproj.CoreCompileInputs.cache
+C:\Users\nightwill\Desktop\Plugin\PlugIn\obj\Debug\PlugIn.dll
+C:\Users\nightwill\Desktop\Plugin\PlugIn\obj\Debug\PlugIn.pdb

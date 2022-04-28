@@ -1,0 +1,16 @@
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\PluginDemo.exe
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\PluginDemo.pdb
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\PlugIn.dll
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\Plugin1.dll
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\Plugin2.dll
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\Plugin1.pdb
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\Plugin2.pdb
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\bin\Debug\PlugIn.pdb
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginApp.csprojAssemblyReference.cache
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginDemo.FrmMain.resources
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginDemo.Properties.Resources.resources
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginApp.csproj.GenerateResource.cache
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginApp.csproj.CoreCompileInputs.cache
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginApp.csproj.CopyComplete
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginDemo.exe
+C:\Users\nightwill\Desktop\Plugin\PluginDemo\obj\Debug\PluginDemo.pdb
